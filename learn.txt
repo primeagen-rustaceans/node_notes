@@ -1,0 +1,10 @@
+ALL, ANY, BETWEEN, EXISTS, IN, SOME, 
+-- SQL COMMENTS
+/*
+SQL COMMENTS
+*/
+
+the file location is compared to the location where we have invoked the node process.
+teletypewriter : initial history of terminals : tty 
+now called pseudo terminal/s : pty/pts
+/dev/pts : keeps all the record of all the terminals running right now.
